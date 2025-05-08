@@ -12,6 +12,9 @@
     "react": "latest",
     "react-dom": "latest",
     "stripe": "^12.0.0",
-    "shadcn/ui": "latest"
+    "@radix-ui/react-icons": "latest",
+    "@tailwindcss/forms": "latest",
+    "class-variance-authority": "latest",
+    "tailwind-variants": "latest"
   }
 }
